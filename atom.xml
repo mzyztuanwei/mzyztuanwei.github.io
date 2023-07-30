@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yuwen.cf</id>
     <title>语文园地</title>
-    <updated>2023-07-30T15:28:21.023Z</updated>
+    <updated>2023-07-30T15:48:43.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yuwen.cf"/>
     <link rel="self" href="https://yuwen.cf/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://yuwen.cf/images/avatar.png</logo>
     <icon>https://yuwen.cf/favicon.ico</icon>
     <rights>All rights reserved 2023, 语文园地</rights>
+    <entry>
+        <title type="html"><![CDATA[不要瞎折腾]]></title>
+        <id>https://yuwen.cf/fen-tuo-de/</id>
+        <link href="https://yuwen.cf/fen-tuo-de/">
+        </link>
+        <updated>2023-07-30T15:41:27.000Z</updated>
+        <content type="html"><![CDATA[<p>这是最后一次</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更更更]]></title>
         <id>https://yuwen.cf/geng-geng-geng/</id>
@@ -155,20 +164,6 @@
 <p>如肾结石 ，你看耳针图，大概在这，肾与膀胱，拿筷子找压痛点，你知道第一个是这里对不对。第二，太溪上交信这一段，找到压痛点，可以耳朵下针，脚上也可以下针。</p>
 <p>那肾脏癌和肾结石，石头排时有时会看到血，当我们用处方下去的话，排石头看不到血，正常癌会排血，不断出来，临床上治症可以区分开来，重点是针灸时，肾脏癌、肾结石动作一样，针灸没有特殊的穴道，专门治肾脏癌，动作一样，这就是针灸，虚实啊，知道虚实、寒热，虚则补其母，实则泻其子，这就是精神。</p>
 <p>作者：天羅地網 https://www.bilibili.com/read/cv20898681 出处：bilibili</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[倪海厦耳针教学视频（收集）]]></title>
-        <id>https://yuwen.cf/ni-hai-sha-er-zhen-jiao-xue-shi-pin-shou-ji/</id>
-        <link href="https://yuwen.cf/ni-hai-sha-er-zhen-jiao-xue-shi-pin-shou-ji/">
-        </link>
-        <updated>2023-06-04T06:25:17.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="耳针教学全"><a href="https://www.bilibili.com/video/BV18P4y1w7Vq/?buvid=XXF98DAFA3BB3E1EC9075BCBAC68B97DC6817&amp;is_story_h5=false&amp;mid=uOnbvwW0QY6YT2c4jxaVWw%3D%3D&amp;p=1&amp;plat_id=116&amp;share_from=ugc&amp;share_medium=android&amp;share_plat=android&amp;share_session_id=f8ad030b-d03f-455b-831c-76ed19f32a10&amp;share_source=WEIXIN&amp;share_tag=s_i&amp;timestamp=1685858419&amp;unique_k=ve6h2LU&amp;up_id=67761502&amp;vd_source=80e16b59619fc01952e526f926ade705">耳针教学全</a><br>
-这部分已经下载，保存在阿里网盘中<br>
-<strong>耳针教学实践部分</strong><br>
-<a href="https://www.bilibili.com/video/BV15u411q7A5/?buvid=XXF98DAFA3BB3E1EC9075BCBAC68B97DC6817&amp;is_story_h5=false&amp;mid=uOnbvwW0QY6YT2c4jxaVWw%3D%3D&amp;p=1&amp;plat_id=114&amp;share_from=ugc&amp;share_medium=android&amp;share_plat=android&amp;share_session_id=2c7748bb-9bd4-4ed6-a0d2-0781445699e1&amp;share_source=WEIXIN&amp;share_tag=s_i&amp;timestamp=1685794471&amp;unique_k=v6zJYp9&amp;up_id=582887996">耳针教学实践部分</a><br>
-耳针教学文字材料</h2>
-<p><a href="https://www.bilibili.com/read/mobile?id=20898681">耳针教学文字</a></p>
 ]]></content>
     </entry>
 </feed>
